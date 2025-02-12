@@ -1,4 +1,2 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/bzhao30/LISP/project_1.srcs/sources_1/new/sensor.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'sensor'
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/bzhao30/LISP/project_1.srcs/sim_1/new/sensor_tb.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'sensor_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/bzhao30/LISP/project_1.srcs/sources_1/new/sampler.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sampler'
